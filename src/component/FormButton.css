@@ -1,0 +1,12 @@
+.action1{
+    border-radius: 12px;
+    background-color: blueviolet;
+    height: 40px;
+    width: 200px;
+    border: 1px solid white;
+    color: white;
+}
+
+.button_position1{
+  text-align: center;
+}

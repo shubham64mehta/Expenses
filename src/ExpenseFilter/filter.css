@@ -1,0 +1,27 @@
+.filter{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    
+}
+
+.space{
+    padding-left: 530px;
+}
+
+.filter label{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.filter select{
+    border-radius: 13px;
+    width: 100px;
+    text-align: center;
+    height: 40px;
+    margin-top: 0.6rem;
+    
+}
